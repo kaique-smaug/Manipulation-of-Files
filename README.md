@@ -1,3 +1,5 @@
+Em andamento: Irei alimentar ese repositório constantemente.
+
 Files Class
 Descrição
 A classe Files oferece uma série de métodos úteis para manipulação de arquivos e diretórios em Python. Com ela, você pode copiar arquivos, criar pastas, renomear arquivos em massa, verificar a presença de arquivos em um diretório e excluir arquivos ou pastas.
