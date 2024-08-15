@@ -1,4 +1,4 @@
-Em andamento: Irei alimentar ese repositório constantemente.
+Em andamento: Irei alimentar ese repositório constantemente ao decorrer do tempo.
 
 Files Class
 Descrição
