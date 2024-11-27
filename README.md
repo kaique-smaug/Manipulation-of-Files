@@ -118,3 +118,5 @@ adjust_bar	Substitui conteúdo específico em um arquivo e o grava em outro arqu
 Contribuindo
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um pull request ou criar um issue.
 
+Autor: Kaique Batista Ramos
+Versão: 1.1.5
